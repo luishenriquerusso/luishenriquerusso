@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Desenvolvedor FullStack. Aplicações Web, Aplicativos Mobile iOS e Android!
+
 <!--
 **luishenriquerusso/luishenriquerusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
