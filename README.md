@@ -1,6 +1,10 @@
-### Hi there 👋
+### Olá! 👋
 
 Desenvolvedor FullStack. Aplicações Web, Aplicativos Mobile iOS e Android!
+
+Sites institucionais, ferramentas de Marketing Digital, CRM's, CMS's.
+
+Campanhas de Perfomance Google ADS.
 
 <!--
 **luishenriquerusso/luishenriquerusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
