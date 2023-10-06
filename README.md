@@ -2,7 +2,7 @@
 
 Desenvolvedor FullStack. Aplicações Web, Aplicativos Mobile iOS e Android!
 
-Sites institucionais, ferramentas de Marketing Digital, CRM's, CMS's.
+Sites institucionais, ferramentas de Marketing Digital, DashBoards, E-commerces, CRM's, CMS's.
 
 Campanhas de Perfomance Google ADS.
 
